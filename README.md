@@ -1,7 +1,7 @@
 Data
 ====
 
-This is a repository for various data sets. Data sets are varying nature; some are real-world data sets, others are simulated data sets, and others are somewhere in between.
+This is a repository for various data sets. Data sets are of varying nature; some are real-world data sets, others are simulated data sets, and others are somewhere in between.
 
 Where necessary, one can find additional context for the data in sub-directory README markdown files. This context may be beneficial where data has unique peculiarities or obtained under special circumstances, e.g., data was produced under laboratory conditions and concerns a particular sample. 
 
